@@ -22,13 +22,13 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['+7 930 387-86-05','+7 930 387-86-05','+7 930 387-86-05'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['+7 930 387-86-05' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['+7 930 387-86-05'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = '+7 930 387-86-05' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'RIYU' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'Jokes' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'RIYU' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
